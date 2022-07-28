@@ -23,7 +23,7 @@ The [NSL-KDD dataset](https://www.unb.ca/cic/datasets/nsl.html) from the Canadia
  - **Multi-class Classification:** Attack label (‘label’ attribute) is classified into five categories ‘normal’, ‘U2R’, ‘R2L’, ‘Probe’, ‘Dos’.
 
 
-# Resluts
+# Results
 
  - **Linear Support Vector Machine (LSVM)**
  
