@@ -3,7 +3,10 @@
 Comparing the efficiency of several machine learning models in detecting jamming signals. We investigated the types of signal features that identify jamming signals, and generated a large dataset using these parameters. Using this dataset, the machine learning algorithms were trained, evaluated, and tested. These algorithms are random forest, support vector machine, and neural network.
 
 ## Dataset
-The [NSL-KDD dataset](https://www.unb.ca/cic/datasets/nsl.html) from the Canadian Institute for Cybersecurity (updated version of the original KDD Cup 1999 Data (KDD99) 
+The [NSL-KDD dataset](https://www.unb.ca/cic/datasets/nsl.html) from the Canadian Institute for Cybersecurity (updated version of the original KDD Cup 1999 Data (KDD99). It was created using a cyber range, which is a small network that is created specifically for cybersecurity professionals to practice attacks against realistic targets. Network packet data was captured from the cyber range and processed using an intrusion detection system, called Bro-IDS
+
+![image](https://user-images.githubusercontent.com/65992809/181878247-57c817d1-b3e0-415a-a36d-33e43225daa2.png)
+
 
 ## Machine Learning Models used
 
